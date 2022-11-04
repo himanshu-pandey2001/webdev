@@ -1,0 +1,25 @@
+body {
+      background-color: #eaf6f6;
+}
+hr {
+      border-style: none;
+      border-top-style: dotted;
+      border-color: grey;
+      border-width: 5px;
+      width: 5%;
+}
+h1 {
+      color: #98A8F8;
+}
+h3 {
+      color: #BCCEF8 ;
+}
+
+h1:hover {
+      background-color: gold;
+
+}
+
+.photo {
+      border-radius: 100%;
+}
